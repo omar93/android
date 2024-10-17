@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="cityName">Stockholm</string>
+    <string name="cityDescription">Stockholm är en underbar gammal stad med moderna inslag</string>
+</resources>
